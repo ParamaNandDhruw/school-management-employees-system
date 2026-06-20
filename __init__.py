@@ -1,1 +1,1 @@
-from  .students_manager  import Student
+from  .stuff_manager  import Stuff
