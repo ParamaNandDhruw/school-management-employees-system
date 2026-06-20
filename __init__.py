@@ -1,1 +1,1 @@
-from  .stuff_manager  import Stuff
+from  .teacher_manager import Teacher
