@@ -1,1 +1,1 @@
-from  .students_manager  import Student
+from  .teacher_manager import Teacher
